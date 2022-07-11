@@ -1,0 +1,23 @@
+#carouselExampleFade {
+    font-size: 30px;
+}
+
+
+.d-block {
+    height: 500px;
+}
+
+h3 {
+    color: rgb(3, 51, 58);
+    font-style: italic;
+}
+
+.tachado{
+    text-decoration: line-through;
+}
+
+.destaque{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
